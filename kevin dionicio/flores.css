@@ -1,0 +1,140 @@
+
+
+.background{
+    background-color: #AFD198;
+}
+
+.navbar a{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: Montserrat;
+    
+}
+
+
+
+.img-fondo{
+    background-image: url(/imgs/flores.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+
+.img-fondo2{
+    background-image: url(/imgs/flores2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+
+
+.img-fondo3{
+    background-image: url(/imgs/flores3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+
+
+
+
+.img-logo{
+    width: 3vw;
+    margin: 0;
+    padding: 0;
+}
+
+.d-block{
+    height: 80vh;
+    background-size: contain;
+}
+
+
+
+
+.w-100-height{
+    height: 100vh;
+    width: 100%;
+}
+
+
+
+
+
+.box-1{
+ 
+}
+
+.card{
+    margin: 30px;
+}
+
+
+
+
+.footer_container
+{
+  background-color:#4F6F52;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#d8d8d8;
+}
+.footer_container hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+
+
+.footer_container h6
+{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px;
+}
+.footer_container a
+{
+  color:#dedbdb;
+}
+.footer_container a:hover
+{
+  color:#17d284;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color:#dbd8d8;
+}
+
+
+.copyright-text
+{
+  margin:0;
+}
+@media (max-width:991px)
+{
+  
+}
+@media (max-width:767px)
+{
+  .footer_container
+  {
+    padding-bottom:0
+  }
+  
+}
